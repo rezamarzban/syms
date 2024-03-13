@@ -54,3 +54,5 @@ Then hit `ctrl+x` button and type `y`, Then press `Enter` to exit and saving the
 ```
 
 In less than a minute it solve and calculate complex Wait's formula. The result is normalized radiation resistance of a sample antenna..., So syms is easy to use portable handheld equation solver and calculator for engineers and scientists.
+
+syms always looks for `main.sym` file which contains sympy codes to solving and calculating, Change it for your needs.
