@@ -1,7 +1,7 @@
 # syms
 syms is a single executable binary file that run sympy codes (as like as MATLAB/Octave symbolic package codes)
 
-syms is portable lightweight complex equation solver and calculator, And doesn't need to any required software to be installed for working, Just download and use it quickly. For example download `syms-aarch64` to fresh Termux and use it without any required software installation.
+syms is portable lightweight complex equation solver and calculator, And doesn't need to any required software to be installed for working, Just download and use it quickly. For example download `syms-aarch64` to fresh Termux and use it without any required software installation as explained in `example1` directory.
 
 # usage
 Download a release and change files permission to executable, Then run:
