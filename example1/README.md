@@ -1,4 +1,4 @@
-At this example, The syms solve Wait's formula to calculating normalized radiation resistance of a sample antenna.
+At this example, The syms solve Wait's formula to calculating normalized radiation resistance of a sample antenna which is related to ground wave propagation part only.
 
 For example, Download `syms-aarch64` release with your handheld smartphone browser and extract its contents, Then at freshly installed Termux run below command and allow it to access storage:
 
@@ -53,6 +53,6 @@ Then hit `ctrl+x` button and type `y`, Then press `Enter` to exit and saving the
 ./syms
 ```
 
-In less than a minute it solve and calculate complex Wait's formula. The result is normalized radiation resistance of a sample antenna..., So syms is easy to use portable handheld equation solver and calculator for engineers and scientists.
+In less than a minute it solve and calculate complex Wait's formula. The result is normalized radiation resistance of a sample antenna which is related to ground wave propagation part only, So syms is easy to use portable handheld equation solver and calculator for engineers and scientists.
 
 syms always looks for `main.sym` file which contains sympy codes to solving and calculating, Change it for your needs.
